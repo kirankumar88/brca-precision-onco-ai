@@ -1,4 +1,4 @@
-# BRCA Multi-Omics AI
+# brca-precision-onco-ai
 
 An interpretable machine learning platform for breast cancer subtype classification using multi-omics data. The system integrates predictive modeling with biomarker identification and pathway-level analysis to support precision oncology research.
 
