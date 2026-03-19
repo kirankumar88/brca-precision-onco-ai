@@ -9,7 +9,7 @@ This project presents an end-to-end workflow for analyzing multi-omics datasets 
 The platform is implemented as an interactive Streamlit application, enabling data upload, prediction, and downstream biological interpretation.
 
 ## Live app link
-Streamlit cloud : https://histomap-ai-sj2g3bvn7nw4jef4tqvdey.streamlit.app/
+Streamlit cloud : https://brca-precision-onco-ai-gawghxw2lhsw7pzs47ceze.streamlit.app/
 
 ## Dataset: The Cancer Genome Atlas (TCGA)
 Reference: Ciriello G., Gatza M.L., Beck A.H., et al. (2015). Comprehensive Molecular Portraits of Invasive Lobular Breast Cancer. Cell, 163(2), 506–519. https://doi.org/10.1016/j.cell.2015.09.033
@@ -56,7 +56,7 @@ brca-precision-onco-ai/
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/<your-username>/brca-precision-onco-ai.git  
+git clone https://github.com/kirankumar88/brca-precision-onco-ai.git  
 cd brca-precision-onco-ai  
 pip install -r requirements.txt  
 
