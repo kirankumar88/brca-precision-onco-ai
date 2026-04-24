@@ -8,6 +8,9 @@ This project presents an end-to-end workflow for analyzing multi-omics datasets 
 
 The platform is implemented as an interactive Streamlit application, enabling data upload, prediction, and downstream biological interpretation.
 
+<img width="1536" height="1024" alt="ChatGPT Image Apr 24, 2026, 08_37_47 PM" src="https://github.com/user-attachments/assets/9063e238-5dd1-4313-99ee-b7709c9f8eb7" />
+
+
 ## Live app link
 Streamlit cloud : https://brca-precision-onco-ai-gawghxw2lhsw7pzs47ceze.streamlit.app/
 
